@@ -1,7 +1,5 @@
 # Welcome to Myth Docs
 
-## Sections
-
 * [Tags](tags.md)
 * [Scripting (map actions)](scripting.md)
 * [Sounds and Music](sounds.md)
@@ -25,7 +23,7 @@
 
 ## Guides
 
-* [Ares Scripting Tutorial](http://hl.udogs.net/files/Uploads/%20User%20Uploads/A-Red/Ares%20Full%20Tutorial.zip)
+* [Ares Scripting Tutorial (A-Red archive)](https://tain.totalcodex.net/forum/viewtopic.php?t=1218)
 * [Magellans QAD Mapmaking Guide](https://tain.totalcodex.net/items/show/magellans-qad-mapmaking-guide)
 * [A-Red's Advanced Scripting Tutorial
 ](https://tain.totalcodex.net/items/show/a-reds-advanced-scripting-tutorial)
