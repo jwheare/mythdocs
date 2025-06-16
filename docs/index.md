@@ -16,7 +16,7 @@ A collection of links, guides, documentation and information useful for mapmaker
 
 * [Loathing](https://projectmagma.net/downloads/myth2docs/loathing.html){ target="_blank" } - Bungie's mesh editor
 * [Fear](https://projectmagma.net/downloads/myth2docs/fear.html){ target="_blank" } - Bungie's tag editor
-* [Changelogs](https://github.com/jwheare/mythtooldocs/commits/main/)
+* [Changelogs](https://github.com/jwheare/mythtooldocs/commits/main/){ target="_blank" }
 
 ## Tools
 
