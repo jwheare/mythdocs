@@ -23,11 +23,8 @@
 
 ## Guides
 
-* [Ares Scripting Tutorial (A-Red archive)](https://tain.totalcodex.net/forum/viewtopic.php?t=1218)
-* [Magellans QAD Mapmaking Guide](https://tain.totalcodex.net/items/show/magellans-qad-mapmaking-guide)
-* [A-Red's Advanced Scripting Tutorial
-](https://tain.totalcodex.net/items/show/a-reds-advanced-scripting-tutorial)
 * [Myth II Handbook](https://tain.totalcodex.net/items/show/the-myth-ii-handbook)
+* [Mapmaking for Newbies Tutorial](http://www.orderofhpak.com/Manuals/Guides/Mapmaking%20for%20Newbies%20Tutorial.pdf)
 
 ## Resources
 
