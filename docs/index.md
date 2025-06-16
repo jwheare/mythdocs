@@ -27,7 +27,7 @@ A collection of links, guides, documentation and useful information for mapmaker
 
 * [Myth II Handbook](https://tain.totalcodex.net/items/show/the-myth-ii-handbook){ target="_blank" }
 * [Killermac Mapmaking for Newbies Tutorial](http://www.orderofhpak.com/Manuals/Guides/Mapmaking%20for%20Newbies%20Tutorial.pdf){ target="_blank" } (pdf - OoH archive)
-* [Gangene Myth II Mapmaking Guide](https://web.archive.org/web/20001209122100fw_/http://people.atl.mediaone.net/gangrene/mapmake.htm){ target="_blank" } (archive.org - 2000-12-09)
+* [Gangrene Myth II Mapmaking Guide](https://web.archive.org/web/20001209122100fw_/http://people.atl.mediaone.net/gangrene/mapmake.htm){ target="_blank" } (archive.org - 2000-12-09)
 * [Vista Cartel FAQ](https://web.archive.org/web/20021009220249fw_/http://vistacartel.com/myth/faq.html){ target="_blank" } (archive.org - 2002-10-09)
 * [Jon God Oak guide](https://hl.udogs.net/files/Uploads/%20User%20Uploads/Jon%20God's%20Uploads/OakGuide/Oak%20guide.html){ target="_blank" }
 * [Cydonian Map-Making Tutorials](https://hl.udogs.net/files/Gaming/%20Myth%20Series/Myth%20II%20-%20Soulblighter/Documents/Strategy/cydtips.html){ target="_blank" } (udogs archive)
