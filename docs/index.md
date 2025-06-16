@@ -8,13 +8,11 @@ A collection of links, guides, documentation and information useful for mapmaker
 * [Collections (graphics)](collections.md)
 * [Models](models.md)
 
-# Links
-
-## Myth
+## Updates
 
 * [Project Magma](https://projectmagma.net/) - Community developers of the Myth series
 
-## Documentation
+## Official Documentation
 
 * [Loathing](https://projectmagma.net/downloads/myth2docs/loathing.html) - Bungie's mesh editor
 * [Fear](https://projectmagma.net/downloads/myth2docs/fear.html) - Bungie's tag editor
@@ -24,7 +22,7 @@ A collection of links, guides, documentation and information useful for mapmaker
 * [Oak](https://projectmagma.net/~melekor/oak/) - Project Magma's tag editor (and more)
 * [mythextract](https://github.com/jwheare/mythextract) - Command line tools for working with Myth tags.
 
-## Guides
+## Complete Guides
 
 * [Myth II Handbook](https://tain.totalcodex.net/items/show/the-myth-ii-handbook)
 * [Mapmaking for Newbies Tutorial](http://www.orderofhpak.com/Manuals/Guides/Mapmaking%20for%20Newbies%20Tutorial.pdf)
