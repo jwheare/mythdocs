@@ -16,18 +16,20 @@ A collection of links, guides, documentation and information useful for mapmaker
 
 * [Loathing](https://projectmagma.net/downloads/myth2docs/loathing.html){ target="_blank" } - Bungie's mesh editor
 * [Fear](https://projectmagma.net/downloads/myth2docs/fear.html){ target="_blank" } - Bungie's tag editor
+* [Changelogs](https://github.com/jwheare/mythtooldocs/commits/main/)
 
 ## Tools
 
-* [Oak](https://projectmagma.net/~melekor/oak/){ target="_blank" } - Project Magma's tag editor (and more)
+* [Oak](https://projectmagma.net/~melekor/oak/){ target="_blank" } - Project Magma's editing suite
 * [mythextract](https://github.com/jwheare/mythextract){ target="_blank" } - Command line tools for working with Myth tags.
 
 ## Complete Guides
 
 * [Myth II Handbook](https://tain.totalcodex.net/items/show/the-myth-ii-handbook){ target="_blank" }
 * [Mapmaking for Newbies Tutorial](http://www.orderofhpak.com/Manuals/Guides/Mapmaking%20for%20Newbies%20Tutorial.pdf){ target="_blank" }
-* [Gangene's Myth II Mapmaking Guide](https://web.archive.org/web/20001209122100fw_/http://people.atl.mediaone.net/gangrene/mapmake.htm){ target="_blank" }
-* [Vista Cartel's FAQ](https://web.archive.org/web/20021009220249/http://vistacartel.com/myth/faq.html){ target="_blank" }
+* [Gangene Myth II Mapmaking Guide](https://web.archive.org/web/20001209122100fw_/http://people.atl.mediaone.net/gangrene/mapmake.htm){ target="_blank" }
+* [Vista Cartel FAQ](https://web.archive.org/web/20021009220249/http://vistacartel.com/myth/faq.html){ target="_blank" }
+* [Jon God Oak guide](https://hl.udogs.net/files/Uploads/%20User%20Uploads/Jon%20God's%20Uploads/OakGuide/Oak%20guide.html){ target="_blank" }
 
 ## Resources
 

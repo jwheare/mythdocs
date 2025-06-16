@@ -6,3 +6,4 @@
 * Vista Cartel Texture Tutorials
     - [Grass](https://web.archive.org/web/20020906181023/http://www.vistacartel.com/myth/grass.html){ target="_blank" }
     - [Rock](https://web.archive.org/web/20020907025509/http://www.vistacartel.com/myth/rock.html){ target="_blank" }
+* [Melekor Detail Texturing Explanation](https://projectmagma.net/~melekor/detailtexturing/)
