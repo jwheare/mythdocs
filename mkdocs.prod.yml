@@ -1,5 +1,6 @@
 INHERIT: mkdocs.yml
 
 plugins:
+  - search
   - git-revision-date-localized:
       enable_creation_date: true
