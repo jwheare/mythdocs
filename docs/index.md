@@ -1,4 +1,4 @@
-# Myth Mapmaking Docs
+# ![Myth Mapmaking Docs](masthead.png)
 
 A collection of links, guides, documentation and information useful for mapmakers of the Myth series by Bungie.
 
