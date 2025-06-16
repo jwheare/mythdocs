@@ -1,7 +1,7 @@
 site_name: Myth Mapmaking Docs
 site_url: https://jwheare.github.io/mythdocs/
-repo_url: https://github.com/jwheare/mythdocs
-repo_name: jwheare/mythdocs
+# repo_url: https://github.com/jwheare/mythdocs
+# repo_name: jwheare/mythdocs
 copyright: Copyright &copy; James Wheare
 extra_css:
   - css/extra.css
