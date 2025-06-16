@@ -1,6 +1,6 @@
 # Collection (graphics) editing
 
-* [Clem Color Map Walkthrough](http://www.orderofhpak.com/Manuals/Guides/Clem's%20Cmap%20Walkthru.pdf){ target="_blank" } (pdf - OoH mirror)
+* [Clem Color Map Walkthrough](http://www.orderofhpak.com/Manuals/Guides/Clem's%20Cmap%20Walkthru.pdf){ target="_blank" } (pdf - OoH archive)
 * [Vista Cartel Bryce Tutorial](https://web.archive.org/web/20021009204010fw_/http://vistacartel.com/myth/bryce.html){ target="_blank" } (archive.org - 2002-10-09)
 * [Reddek Pregame Tutorial](https://web.archive.org/web/20010423084444fw_/http://www.ruf.rice.edu/~wamorris/rdpretut.htm){ target="_blank" } (archive.org - 2001-04-23)
 * Vista Cartel Texture Tutorials

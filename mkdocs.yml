@@ -32,6 +32,9 @@ theme:
     logo: material/sword-cross
   features:
     - content.tooltips
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
 
     # Palette toggle for automatic mode
