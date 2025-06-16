@@ -6,6 +6,15 @@ copyright: Copyright &copy; James Wheare
 extra_css:
   - css/extra.css
 
+extra:
+  social:
+    - icon: fontawesome/brands/discord 
+      link: https://discord.gg/Smuv2tk5f6
+      name: Project Magma - Myth Mapmaking Discord
+    - icon: fontawesome/brands/github 
+      link: https://github.com/jwheare/mythdocs
+      name: Source code on Github
+
 markdown_extensions:
   - footnotes
   - attr_list
