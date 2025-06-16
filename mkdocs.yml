@@ -1,9 +1,46 @@
 site_name: Myth Docs
-site_url: http://localhost:8000
+site_url: https://jwheare.github.io/mythdocs/
+repo_url: https://github.com/jwheare/mythdocs
+repo_name: jwheare/mythdocs
+copyright: Copyright &copy; James Wheare
+
+
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/sword-cross
+  features:
+    - content.tooltips
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system color scheme
+
 markdown_extensions:
   - footnotes
+
 nav:
   - Home: index.md
   - Tags: tags.md
