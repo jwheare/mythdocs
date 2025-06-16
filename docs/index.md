@@ -1,4 +1,6 @@
-# Welcome to Myth Docs
+# Myth Mapmaking Docs
+
+A collection of links, guides, documentation and information useful for mapmakers of the Myth series by Bungie.
 
 * [Tags](tags.md)
 * [Scripting (map actions)](scripting.md)
