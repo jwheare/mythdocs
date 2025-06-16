@@ -3,7 +3,16 @@ site_url: https://jwheare.github.io/mythdocs/
 repo_url: https://github.com/jwheare/mythdocs
 repo_name: jwheare/mythdocs
 copyright: Copyright &copy; James Wheare
+extra_css:
+  - css/extra.css
 
+
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 theme:
   name: material
@@ -37,9 +46,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system color scheme
-
-markdown_extensions:
-  - footnotes
 
 nav:
   - Home: index.md

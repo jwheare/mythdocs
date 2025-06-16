@@ -1,0 +1,13 @@
+img.masthead {
+    height: 75px;
+    max-width: fit-content;
+    margin-bottom: -25px
+}
+
+.md-content__inner {
+    overflow: hidden;
+}
+
+.discord {
+    color: rgb(89,104,234);
+}

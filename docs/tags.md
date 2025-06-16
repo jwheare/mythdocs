@@ -1,44 +1,44 @@
 # Tags
 
-* `amso` - [Ambient Sounds](https://projectmagma.net/downloads/myth2docs/fear.html#amso)
-* `arti` - [Artifacts](https://projectmagma.net/downloads/myth2docs/fear.html#arti)
-* `core` - [Collection References](https://projectmagma.net/downloads/myth2docs/fear.html#core)
-* `.256` - [Collections](https://projectmagma.net/downloads/myth2docs/fear.html#256)
-* `conn` - [Connectors](https://projectmagma.net/downloads/myth2docs/fear.html#conn)
-* `ditl` - [Dialog String Lists](https://projectmagma.net/downloads/myth2docs/fear.html#ditl)
-* `d256` - [Detail Collections](https://projectmagma.net/downloads/myth2docs/fear.html#d256)
-* `dmap` - [Detail Maps](https://projectmagma.net/downloads/myth2docs/fear.html#dmap)
-* `dtex` - [Detail Textures](https://projectmagma.net/downloads/myth2docs/fear.html#dtex)
-* `bina` - [Dialogs](https://projectmagma.net/downloads/myth2docs/fear.html#bina)
-* `font` - [Fonts](https://projectmagma.net/downloads/myth2docs/fear.html#font)
-* `form` - [Formations](https://projectmagma.net/downloads/myth2docs/fear.html#form)
-* `geom` - [Geometries](https://projectmagma.net/downloads/myth2docs/fear.html#geom)
-* `inte` - [Interface](https://projectmagma.net/downloads/myth2docs/fear.html#inte)
-* `ligh` - [Lightning](https://projectmagma.net/downloads/myth2docs/fear.html#ligh)
-* `phys` - [Local Physics](https://projectmagma.net/downloads/myth2docs/fear.html#phys)
-* `lpgr` - [Local Projectile Groups](https://projectmagma.net/downloads/myth2docs/fear.html#lpgr)
-* `medi` - [Media Types](https://projectmagma.net/downloads/myth2docs/fear.html#medi)
-* `meef` - [Mesh Effect](https://projectmagma.net/downloads/myth2docs/fear.html#meef)
-* `meli` - [Mesh Lighting](https://projectmagma.net/downloads/myth2docs/fear.html#meli)
-* `mesh` - [Meshes](https://projectmagma.net/downloads/myth2docs/fear.html#mesh)
-* `anim` - [Model Animations](https://projectmagma.net/downloads/myth2docs/fear.html#anim)
-* `mode` - [Models](https://projectmagma.net/downloads/myth2docs/fear.html#mode)
-* `mons` - [Monsters](https://projectmagma.net/downloads/myth2docs/fear.html#mons)
-* `obje` - [Objects](https://projectmagma.net/downloads/myth2docs/fear.html#obje)
-* `obpc` - [Observer Constants](https://projectmagma.net/downloads/myth2docs/fear.html#obpc)
-* `part` - [Particle Systems](https://projectmagma.net/downloads/myth2docs/fear.html#part)
-* `pref` - [Preferences](https://projectmagma.net/downloads/myth2docs/fear.html#pref)
-* `prel` - [Preloaded Data](https://projectmagma.net/downloads/myth2docs/fear.html#prel)
-* `prgr` - [Projectile Groups](https://projectmagma.net/downloads/myth2docs/fear.html#prgr)
-* `proj` - [Projectiles](https://projectmagma.net/downloads/myth2docs/fear.html#proj)
-* `reco` - [Recordings](https://projectmagma.net/downloads/myth2docs/fear.html#reco)
-* `save` - [Saved Games](https://projectmagma.net/downloads/myth2docs/fear.html#save)
-* `scen` - [Scenery](https://projectmagma.net/downloads/myth2docs/fear.html#scen)
-* `scri` - [Scripts](https://projectmagma.net/downloads/myth2docs/fear.html#scri)
-* `soli` - [Sound Lists](https://projectmagma.net/downloads/myth2docs/fear.html#soli)
-* `soun` - [Sounds](https://projectmagma.net/downloads/myth2docs/fear.html#soun)
-* `stli` - [String Lists](https://projectmagma.net/downloads/myth2docs/fear.html#stli)
-* `temp` - [Templates](https://projectmagma.net/downloads/myth2docs/fear.html#temp)
-* `text` - [Text](https://projectmagma.net/downloads/myth2docs/fear.html#text)
-* `unit` - [Units](https://projectmagma.net/downloads/myth2docs/fear.html#unit)
-* `wind` - [Wind](https://projectmagma.net/downloads/myth2docs/fear.html#wind)
+* `amso` - [Ambient Sounds](https://projectmagma.net/downloads/myth2docs/fear.html#amso){ target="_blank" }
+* `arti` - [Artifacts](https://projectmagma.net/downloads/myth2docs/fear.html#arti){ target="_blank" }
+* `core` - [Collection References](https://projectmagma.net/downloads/myth2docs/fear.html#core){ target="_blank" }
+* `.256` - [Collections](https://projectmagma.net/downloads/myth2docs/fear.html#256){ target="_blank" }
+* `conn` - [Connectors](https://projectmagma.net/downloads/myth2docs/fear.html#conn){ target="_blank" }
+* `ditl` - [Dialog String Lists](https://projectmagma.net/downloads/myth2docs/fear.html#ditl){ target="_blank" }
+* `d256` - [Detail Collections](https://projectmagma.net/downloads/myth2docs/fear.html#d256){ target="_blank" }
+* `dmap` - [Detail Maps](https://projectmagma.net/downloads/myth2docs/fear.html#dmap){ target="_blank" }
+* `dtex` - [Detail Textures](https://projectmagma.net/downloads/myth2docs/fear.html#dtex){ target="_blank" }
+* `bina` - [Dialogs](https://projectmagma.net/downloads/myth2docs/fear.html#bina){ target="_blank" }
+* `font` - [Fonts](https://projectmagma.net/downloads/myth2docs/fear.html#font){ target="_blank" }
+* `form` - [Formations](https://projectmagma.net/downloads/myth2docs/fear.html#form){ target="_blank" }
+* `geom` - [Geometries](https://projectmagma.net/downloads/myth2docs/fear.html#geom){ target="_blank" }
+* `inte` - [Interface](https://projectmagma.net/downloads/myth2docs/fear.html#inte){ target="_blank" }
+* `ligh` - [Lightning](https://projectmagma.net/downloads/myth2docs/fear.html#ligh){ target="_blank" }
+* `phys` - [Local Physics](https://projectmagma.net/downloads/myth2docs/fear.html#phys){ target="_blank" }
+* `lpgr` - [Local Projectile Groups](https://projectmagma.net/downloads/myth2docs/fear.html#lpgr){ target="_blank" }
+* `medi` - [Media Types](https://projectmagma.net/downloads/myth2docs/fear.html#medi){ target="_blank" }
+* `meef` - [Mesh Effect](https://projectmagma.net/downloads/myth2docs/fear.html#meef){ target="_blank" }
+* `meli` - [Mesh Lighting](https://projectmagma.net/downloads/myth2docs/fear.html#meli){ target="_blank" }
+* `mesh` - [Meshes](https://projectmagma.net/downloads/myth2docs/fear.html#mesh){ target="_blank" }
+* `anim` - [Model Animations](https://projectmagma.net/downloads/myth2docs/fear.html#anim){ target="_blank" }
+* `mode` - [Models](https://projectmagma.net/downloads/myth2docs/fear.html#mode){ target="_blank" }
+* `mons` - [Monsters](https://projectmagma.net/downloads/myth2docs/fear.html#mons){ target="_blank" }
+* `obje` - [Objects](https://projectmagma.net/downloads/myth2docs/fear.html#obje){ target="_blank" }
+* `obpc` - [Observer Constants](https://projectmagma.net/downloads/myth2docs/fear.html#obpc){ target="_blank" }
+* `part` - [Particle Systems](https://projectmagma.net/downloads/myth2docs/fear.html#part){ target="_blank" }
+* `pref` - [Preferences](https://projectmagma.net/downloads/myth2docs/fear.html#pref){ target="_blank" }
+* `prel` - [Preloaded Data](https://projectmagma.net/downloads/myth2docs/fear.html#prel){ target="_blank" }
+* `prgr` - [Projectile Groups](https://projectmagma.net/downloads/myth2docs/fear.html#prgr){ target="_blank" }
+* `proj` - [Projectiles](https://projectmagma.net/downloads/myth2docs/fear.html#proj){ target="_blank" }
+* `reco` - [Recordings](https://projectmagma.net/downloads/myth2docs/fear.html#reco){ target="_blank" }
+* `save` - [Saved Games](https://projectmagma.net/downloads/myth2docs/fear.html#save){ target="_blank" }
+* `scen` - [Scenery](https://projectmagma.net/downloads/myth2docs/fear.html#scen){ target="_blank" }
+* `scri` - [Scripts](https://projectmagma.net/downloads/myth2docs/fear.html#scri){ target="_blank" }
+* `soli` - [Sound Lists](https://projectmagma.net/downloads/myth2docs/fear.html#soli){ target="_blank" }
+* `soun` - [Sounds](https://projectmagma.net/downloads/myth2docs/fear.html#soun){ target="_blank" }
+* `stli` - [String Lists](https://projectmagma.net/downloads/myth2docs/fear.html#stli){ target="_blank" }
+* `temp` - [Templates](https://projectmagma.net/downloads/myth2docs/fear.html#temp){ target="_blank" }
+* `text` - [Text](https://projectmagma.net/downloads/myth2docs/fear.html#text){ target="_blank" }
+* `unit` - [Units](https://projectmagma.net/downloads/myth2docs/fear.html#unit){ target="_blank" }
+* `wind` - [Wind](https://projectmagma.net/downloads/myth2docs/fear.html#wind){ target="_blank" }

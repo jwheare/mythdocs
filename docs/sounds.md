@@ -2,7 +2,7 @@
 
 ## Myth II Sound Support Chart
 
-[Original image version](sounds/M2_Sound_Chart.webp)
+[Original image version](sounds/M2_Sound_Chart.webp){ target="_blank" }
 
 Requires 22,050 Hz 16 bit WAV/AIF format
 
