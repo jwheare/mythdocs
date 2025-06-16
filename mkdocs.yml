@@ -4,7 +4,7 @@ site_url: https://jwheare.github.io/mythdocs/
 # repo_name: jwheare/mythdocs
 copyright: '&copy; {year} James Wheare - <a href="https://github.com/jwheare/mythdocs/blob/main/LICENSE" target="_blank">MIT License</a>'
 extra_css:
-  - css/extra.css?v=1
+  - css/extra.css?v=2
 
 hooks:
   - hooks.py

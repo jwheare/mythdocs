@@ -1,4 +1,4 @@
-# ![Myth Mapmaking Docs](masthead.png){ .masthead }
+# ![Myth Mapmaking Docs](masthead.png){ .masthead } { .masthead_h1 }
 
 A collection of links, guides, documentation and useful information for mapmakers of the Myth series by Bungie.
 
