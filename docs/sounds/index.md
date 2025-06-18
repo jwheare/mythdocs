@@ -2,7 +2,7 @@
 
 ## Myth II Sound Support Chart
 
-[Original image version](sounds/M2_Sound_Chart.webp){ target="_blank" } (webp)
+[Original image version](M2_Sound_Chart.webp){ target="_blank" } (webp)
 
 Requires 22,050 Hz 16 bit WAV/AIF format
 
@@ -19,7 +19,7 @@ Requires 22,050 Hz 16 bit WAV/AIF format
 [^1]:
     Ambient **Sound Sources** are placed on a mesh using Loathing using this placeholder.
 
-    ![Loathing ambient sound source placeholder](sounds/loathing_ambient_sound_source_placeholder.png)
+    ![Loathing ambient sound source placeholder](loathing_ambient_sound_source_placeholder.png)
 
 [^2]: Ambient **Sounds** are selected for a mesh using Fear or Oak.
 

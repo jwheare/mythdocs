@@ -66,8 +66,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Tags: tags.md
-  - Scripting: scripting.md
-  - Collections: collections.md
-  - Sounds: sounds.md
-  - Models: models.md
+  - Tags: tags/index.md
+  - Scripting: scripting/index.md
+  - Collections: collections/index.md
+  - Sounds: sounds/index.md
+  - Models: models/index.md

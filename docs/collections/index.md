@@ -8,7 +8,8 @@
 * Vista Cartel Texture Tutorials
     - [Grass](https://web.archive.org/web/20020906181023fw_/http://www.vistacartel.com/myth/grass.html "Vista Cartel Texture Tutorials: Grass"){ target="_blank" } (archive.org - 2002-09-06)
     - [Rock](https://web.archive.org/web/20020907025509fw_/http://www.vistacartel.com/myth/rock.html "Vista Cartel Texture Tutorials: Rock"){ target="_blank" } (archive.org - 2002-09-07)
-* [Melekor Detail Texturing Explanation](https://projectmagma.net/~melekor/detailtexturing/){ target="_blank" } (magma)
 * [Soma How to](https://web.archive.org/web/20010602021426fw_/http://soma.creationgames.com/howto.html){ target="_blank" } (archive.org - 2001-06-02)
-    - [Soma How to work with tileable textures](https://web.archive.org/web/20010602201114fw_/http://soma.creationgames.com/workwithpatterns.html){ target="_blank" } (archive.org - 2001-06-02)
     - [Soma How to create tileable textures in Photoshop](https://web.archive.org/web/20010603005521fw_/http://soma.creationgames.com/createpatterns.html){ target="_blank" } (archive.org - 2001-06-03)
+    - [Soma How to work with tileable textures](https://web.archive.org/web/20010602201114fw_/http://soma.creationgames.com/workwithpatterns.html){ target="_blank" } (archive.org - 2001-06-02)
+* [Melekor Detail Texturing Explanation](https://projectmagma.net/~melekor/detailtexturing/){ target="_blank" } (magma)
+* [Jon God Detail texturing in Oak guide](https://hl.udogs.net/files/Uploads/%20User%20Uploads/Jon%20God's%20Uploads/OakGuide/Oak%20guide.html){ target="_blank" } (udogs archive)
